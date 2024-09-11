@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe.config
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.pdb
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.pdb
