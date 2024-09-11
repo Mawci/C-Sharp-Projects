@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Console App Submission\Console App Submission\bin\Debug\Console App Submission.exe.config
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Console App Submission\Console App Submission\bin\Debug\Console App Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Console App Submission\Console App Submission\bin\Debug\Console App Submission.pdb
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Console App Submission\Console App Submission\obj\Debug\Console App Submission.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Console App Submission\Console App Submission\obj\Debug\Console App Submission.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Console App Submission\Console App Submission\obj\Debug\Console App Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Console App Submission\Console App Submission\obj\Debug\Console App Submission.pdb
