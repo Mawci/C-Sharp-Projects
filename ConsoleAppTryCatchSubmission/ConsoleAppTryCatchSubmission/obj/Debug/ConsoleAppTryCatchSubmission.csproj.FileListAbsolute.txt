@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppTryCatchSubmission\ConsoleAppTryCatchSubmission\bin\Debug\ConsoleAppTryCatchSubmission.exe.config
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppTryCatchSubmission\ConsoleAppTryCatchSubmission\bin\Debug\ConsoleAppTryCatchSubmission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppTryCatchSubmission\ConsoleAppTryCatchSubmission\bin\Debug\ConsoleAppTryCatchSubmission.pdb
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppTryCatchSubmission\ConsoleAppTryCatchSubmission\obj\Debug\ConsoleAppTryCatchSubmission.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppTryCatchSubmission\ConsoleAppTryCatchSubmission\obj\Debug\ConsoleAppTryCatchSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppTryCatchSubmission\ConsoleAppTryCatchSubmission\obj\Debug\ConsoleAppTryCatchSubmission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppTryCatchSubmission\ConsoleAppTryCatchSubmission\obj\Debug\ConsoleAppTryCatchSubmission.pdb
