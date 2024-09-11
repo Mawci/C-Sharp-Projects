@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Arrays Submission\Arrays Submission\bin\Debug\Arrays Submission.exe.config
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Arrays Submission\Arrays Submission\bin\Debug\Arrays Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Arrays Submission\Arrays Submission\bin\Debug\Arrays Submission.pdb
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Arrays Submission\Arrays Submission\obj\Debug\Arrays Submission.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Arrays Submission\Arrays Submission\obj\Debug\Arrays Submission.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Arrays Submission\Arrays Submission\obj\Debug\Arrays Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Arrays Submission\Arrays Submission\obj\Debug\Arrays Submission.pdb
