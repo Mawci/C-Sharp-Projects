@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\Branching Submission.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\Branching Submission.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\Branching Submission.exe.config
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\Branching Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\Branching Submission.pdb
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\Branching Submission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\Branching Submission.pdb
