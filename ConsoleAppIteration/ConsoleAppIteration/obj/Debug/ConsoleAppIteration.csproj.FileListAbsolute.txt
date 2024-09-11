@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppIteration\ConsoleAppIteration\bin\Debug\ConsoleAppIteration.exe.config
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppIteration\ConsoleAppIteration\bin\Debug\ConsoleAppIteration.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppIteration\ConsoleAppIteration\bin\Debug\ConsoleAppIteration.pdb
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppIteration\ConsoleAppIteration\obj\Debug\ConsoleAppIteration.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppIteration\ConsoleAppIteration\obj\Debug\ConsoleAppIteration.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppIteration\ConsoleAppIteration\obj\Debug\ConsoleAppIteration.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\ConsoleAppIteration\ConsoleAppIteration\obj\Debug\ConsoleAppIteration.pdb
