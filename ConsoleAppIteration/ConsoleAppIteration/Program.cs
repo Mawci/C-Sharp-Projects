@@ -10,24 +10,11 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        List<string> names = new List<string>() { "Nick", "Jack", "Matt", "Mark", "John", "Paul" };
-        List<string> numbers= new List<string>() { "one", "two", "three", "four", "five", "six",
-        "seven", "eight", "nine", "ten", "one", "two", "three", "three", "two", "two", "two"};
-        List<string> colors = new List<string>() { "red", "blue", "white", "purple", "orange", "red", "blue" };
-        Dictionary<string, bool> hasAppeared = new Dictionary<string, bool>();
-        hasAppeared.Add("red", false);
-        hasAppeared.Add("blue", false);
-        hasAppeared.Add("white", false);
-        hasAppeared.Add("purple", false);
-        hasAppeared.Add("orange", false);
-
-        string[] stringArray = { "number", "letter", "word", "sentence", "character", "paragraph" };
-
         string input;
-
         int count = 0;
 
         //================= Part One ==================
+        string[] stringArray = { "number", "letter", "word", "sentence", "character", "paragraph" };
         Console.WriteLine("Please enter some text");
         input = Console.ReadLine();
 
@@ -56,6 +43,7 @@ internal class Program
         }
 
         //================= Part Four ==================
+        List<string> names = new List<string>() { "Nick", "Jack", "Matt", "Mark", "John", "Paul" };
         Console.WriteLine("We have a list of names, please enter a name to search for it (try Nick, or Paul)");
         input = Console.ReadLine();
         
@@ -76,6 +64,8 @@ internal class Program
         }
 
         //================= Part Five ==================
+        List<string> numbers = new List<string>() { "one", "two", "three", "four", "five", "six",
+        "seven", "eight", "nine", "ten", "one", "two", "three", "three", "two", "two", "two"};
         Console.WriteLine("We now have a list of written numbers. Please spell the number you wish to search for.");
         input = Console.ReadLine();
 
@@ -97,16 +87,18 @@ internal class Program
         }
 
         //================= Part Six ==================
+        List<string> colors = new List<string>() { "red", "blue", "white", "purple", "orange", "red", "blue" };
+        List<string> duplicateColors = new List<string>();
         foreach (string color in colors)
         {
-            if (hasAppeared[color] == false)
+            if(duplicateColors.Contains(color))
             {
-                Console.WriteLine(color + " is in the list and appearing for the first time.");
-                hasAppeared[color] = true;
+                Console.WriteLine(color + " already exists in the list. Not adding");
             }
             else
             {
-                Console.WriteLine(color + " is in the list BUT this has already appeared in out list previously!");
+                Console.WriteLine("Adding " + color + " to the list");
+                duplicateColors.Add(color);
             }
         }
 
