@@ -10,11 +10,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Nick", "Bill", "Joe"};
-            //game.ListPlayers();
-            //game.Play();
-            //Console.ReadLine();
+            Game game = new TwentyOneGame();
             /************* Notes ***************
             A nameed parameter of calling a function might look like this
             deck = Shuffle(deck: deck, times: 3);
