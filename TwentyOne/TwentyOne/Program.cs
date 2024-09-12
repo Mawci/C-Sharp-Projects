@@ -10,9 +10,24 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Nick", "Bill", "Joe"};
+            //game.ListPlayers();
+            //game.Play();
+            //Console.ReadLine();
+            /************* Notes ***************
+            A nameed parameter of calling a function might look like this
+            deck = Shuffle(deck: deck, times: 3);
+
+            Object initialization makes it easier to assign values
+            Card card = new Card() { Face = "King", Suit = "Spades" };
+            The above does the exact same thing as
+            Card card = new Card();
+            Card.Face = "King";
+            Card.Suit = "Spades";
+
+            */
             Deck deck = new Deck();
-            //A nameed parameter of calling a function might look like this
-            // deck = Shuffle(deck: deck, times: 3);
             deck.Shuffle();
             foreach (Card card in deck.Cards)
             {

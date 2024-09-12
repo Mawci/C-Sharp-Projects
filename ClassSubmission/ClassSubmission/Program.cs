@@ -26,7 +26,7 @@ namespace ClassSubmission
             myClass.numberMethod2(userNum, out numAdded, out numSquared);
             Console.WriteLine(userNum + " + 10 = " + numAdded + ". The squared equals " + numSquared);
 
-            //Overload a method
+            //Overloading a method
             myClass.numberMethod(2, "Nick");
 
             //Static Class
