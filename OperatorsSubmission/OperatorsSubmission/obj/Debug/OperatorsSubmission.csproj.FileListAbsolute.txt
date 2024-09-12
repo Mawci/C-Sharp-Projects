@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe.config
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.pdb
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.exe
+C:\Users\Nick\Documents\TechAcademy\C-Sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.pdb
