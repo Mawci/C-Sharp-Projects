@@ -11,6 +11,11 @@ namespace TwentyOne
         //the card class has a property of datatype string called Suit
         public Suit Suit {  get; set; }
         public Face Face { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit
     {
