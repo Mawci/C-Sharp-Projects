@@ -27,8 +27,13 @@ namespace TwentyOne
             Player player = new Player() { Name = "Nick" };
             game += player;
 
+            ******Lamda Expressions
+            int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
             */
             Deck deck = new Deck();
+            
+            
             deck.Shuffle();
             foreach (Card card in deck.Cards)
             {
