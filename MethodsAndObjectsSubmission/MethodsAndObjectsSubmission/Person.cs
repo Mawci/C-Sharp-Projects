@@ -13,7 +13,7 @@ namespace MethodsAndObjectsSubmission
 
         public void SayName()
         {
-            Console.WriteLine($@"Name: {FirstName}");
+            Console.WriteLine($@"Name: {FirstName} {LastName}");
         }
     }
 }
