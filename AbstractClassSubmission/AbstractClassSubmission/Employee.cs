@@ -8,7 +8,7 @@ namespace AbstractClassSubmission
     {
         public override void SayName()
         {
-            Console.WriteLine($@"Hello, my name is {firstName}");
+            Console.WriteLine($@"Hello, my name is {firstName} {lastName}");
         }
     }
 }
